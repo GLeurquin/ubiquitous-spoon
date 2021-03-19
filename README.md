@@ -1,3 +1,3 @@
 # ubiquitous-spoon
 
-Repository for udacity projects
+Repository for udacity deep learning nanodegree projects
